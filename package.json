@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ChaosCantrip/cc-bungie-api/issues",
     "email": "dev@chaoscantrip.com"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
   }
 }
