@@ -1,0 +1,19 @@
+{
+  "name": "cc-bungie-api",
+  "version": "0.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosCantrip/cc-bungie-api.git"
+  },
+  "author": {
+    "name": "ChaosCantrip",
+    "email": "dev@chaoscantrip.com",
+    "url": "https://chaoscantrip.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ChaosCantrip/cc-bungie-api/issues",
+    "email": "dev@chaoscantrip.com"
+  }
+}
